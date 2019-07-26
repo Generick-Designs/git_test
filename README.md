@@ -1,0 +1,1 @@
+This is Generick's first git project!
